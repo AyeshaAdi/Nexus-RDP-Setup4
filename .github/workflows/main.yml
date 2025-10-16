@@ -180,4 +180,3 @@ jobs:
           name: nexus-mining-log-${{ github.run_id }}
           path: ~/nexus_mining_${{ github.run_id }}.log
           retention-days: 7
-
